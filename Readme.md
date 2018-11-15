@@ -1,3 +1,11 @@
+<!-- default file list -->
+*Files to look at*:
+
+* [HomeController.cs](./CS/CS/Controllers/HomeController.cs) (VB: [HomeController.vb](./VB/CS/Controllers/HomeController.vb))
+* [Model.cs](./CS/CS/Models/Model.cs) (VB: [Model.vb](./VB/CS/Models/Model.vb))
+* [DataTableDataBindingPartial.cshtml](./CS/CS/Views/Home/DataTableDataBindingPartial.cshtml)
+* [Index.cshtml](./CS/CS/Views/Home/Index.cshtml)
+<!-- default file list end -->
 # How to bind GridView with Excel file
 
 
