@@ -7,6 +7,9 @@
 * [Index.cshtml](./CS/CS/Views/Home/Index.cshtml)
 <!-- default file list end -->
 # How to bind GridView with Excel file
+<!-- run online -->
+**[[Run Online]](https://codecentral.devexpress.com/e4458)**
+<!-- run online end -->
 
 
 <p>Our MVC GridView Extension (like other data-aware web controls) does not work directly with real storage (like databases, MS office files, etc.).<br />
