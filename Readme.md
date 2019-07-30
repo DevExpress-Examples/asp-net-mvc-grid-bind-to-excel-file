@@ -8,7 +8,7 @@
 <!-- default file list end -->
 # How to bind GridView with Excel file
 <!-- run online -->
-**[[Run Online]](https://codecentral.devexpress.com/e4458)**
+**[[Run Online]](https://codecentral.devexpress.com/e4458/)**
 <!-- run online end -->
 
 
