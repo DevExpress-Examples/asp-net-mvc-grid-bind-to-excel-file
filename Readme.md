@@ -21,7 +21,7 @@ The DevExpress MVC GridView Extension does not work directly with real storage (
 
 * [Grid View for ASP.NET Web Forms - How to bind grid to an Excel file](https://github.com/DevExpress-Examples/how-to-bind-aspxgridview-with-excel-file-e4457)
 <!-- feedback -->
-## Does This Example Address Your Development Requirements/Objectives?
+## Does this example address your development requirements/objectives?
 
 [<img src="https://www.devexpress.com/support/examples/i/yes-button.svg"/>](https://www.devexpress.com/support/examples/survey.xml?utm_source=github&utm_campaign=asp-net-mvc-grid-bind-to-excel-file&~~~was_helpful=yes) [<img src="https://www.devexpress.com/support/examples/i/no-button.svg"/>](https://www.devexpress.com/support/examples/survey.xml?utm_source=github&utm_campaign=asp-net-mvc-grid-bind-to-excel-file&~~~was_helpful=no)
 
